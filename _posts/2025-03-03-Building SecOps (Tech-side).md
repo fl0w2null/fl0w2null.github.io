@@ -7,7 +7,7 @@ comments: true
 mermaid: true
 ---
 
-> **_Disclaimer_** This method doesn't count your SIEM, SecOps may require it but choosing a SIEM product is in your budget, I can't provide any good+free SIEM for you.
+> **_Warning_** This method doesn't count your SIEM, SecOps may require it but choosing a SIEM product is in your budget, I can't provide any good+free SIEM for you.
 {: .prompt-warning }
 
 ```mermaid
