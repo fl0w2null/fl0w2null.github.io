@@ -88,7 +88,7 @@ pageviews:
 #     light — Use the light color scheme
 #     dark — Use the dark color scheme
 #
-theme_mode: dark # [light | dark]
+theme_mode: # [light | dark]
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
@@ -119,10 +119,10 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: fl0w2null/fl0w2null # <gh-username>/<repo>
+    repo: fl0w2null/fl0w2null.github.io # <gh-username>/<repo>
     repo_id: R_kgDOOCp2Hw
-    category: 
-    category_id: [DIC_kwDOOCp2H84Cnhz9,DIC_kwDOOCp2H84Cnhz_,DIC_kwDOOCp2H84Cnhz-,DIC_kwDOOCp2H84Cnh0A]
+    category: General
+    category_id: DIC_kwDOOCp2H84Cnhz9
     mapping: # optional, default to 'pathname'
     strict: # optional, default to '0'
     input_position: # optional, default to 'bottom'
